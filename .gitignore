@@ -1,3 +1,6 @@
 undo/*
+!undo/.gitkeep
 backup/*
+!backup/.gitkeep
 swap/*
+!swap/.gitkeep
