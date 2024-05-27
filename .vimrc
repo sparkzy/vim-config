@@ -119,21 +119,28 @@ nnoremap <leader>cc :set cursorcolumn!<CR>
 "colorscheme mycolors
 
 " Built-in color schemes
-colorscheme default
+"colorscheme default
 "colorscheme blue
 "colorscheme darkblue
 "colorscheme delek
 "colorscheme desert
 "colorscheme elflord
 "colorscheme evening
+colorscheme habamax
 "colorscheme industry
 "colorscheme koehler
+"colorscheme lunarperche
 "colorscheme morning
 "colorscheme murphy
 "colorscheme pablo
 "colorscheme peachpuff
+"colorscheme quiet
+"colorscheme retrobox
 "colorscheme ron
 "colorscheme shine
 "colorscheme slate
+"colorscheme sorbet
 "colorscheme torte
+"colorscheme wildcharm
+"colorscheme zaibatsu
 "colorscheme zellner
